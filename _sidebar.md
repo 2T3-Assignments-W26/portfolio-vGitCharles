@@ -6,3 +6,5 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
+  - [Charles](./aboutme/Charles_Esquibel_1945389.md)
+  - [Project](./aboutme/myProjects.md)
